@@ -33,13 +33,32 @@ The final Tableau dashboard includes the following components:
 
 ## Visualizations
 Here are some snapshots of the visualizations included in the dashboard:
+### Total Revenue:
 
 ![Total Revenue](https://github.com/Govindpsd/Altiq-Hardware/blob/main/TotalRevenue.png)
+
+### Revenue By Market:
+
 ![Revenue by Market](https://github.com/Govindpsd/Altiq-Hardware/blob/main/RevenueByMarket.png)
+
+### Sales Quantities By Market:
+
 ![Sales Quantities by Market](https://github.com/Govindpsd/Altiq-Hardware/blob/main/SalesQuantitiesByMarket.png)
+
+### Revenue By Year:
+
 ![Revenue by Year](https://github.com/Govindpsd/Altiq-Hardware/blob/main/RevenueByYear.png)
+
+### Top 5 Customers:
+
 ![Top 5 Customers](https://github.com/Govindpsd/Altiq-Hardware/blob/main/Top5Customers.png)
+
+### Top 5 Products:
+
 ![Top 5 Products](https://github.com/Govindpsd/Altiq-Hardware/blob/main/Top5Products.png)
+
+### Final Dashboard:
+
 ![Final Dashboard](https://github.com/Govindpsd/Altiq-Hardware/blob/main/FinalDashboard.png)
 
 
