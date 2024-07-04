@@ -34,7 +34,7 @@ The final Tableau dashboard includes the following components:
 ## Visualizations
 Here are some snapshots of the visualizations included in the dashboard:
 
-![Total Revenue](images/total_revenue.png)
+![Total Revenue]([images/total_revenue.png](https://github.com/Govindpsd/Altiq-Hardware/blob/main/TotalRevenue.png))
 ![Sales Quantities](images/sales_quantities.png)
 ![Revenue by Market](images/revenue_by_market.png)
 ![Sales Quantities by Market](images/sales_quantities_by_market.png)
