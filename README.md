@@ -20,7 +20,6 @@ The AtliQ Hardware Sales project involves comprehensive data analysis and visual
 ## Dashboard Components
 The final Tableau dashboard includes the following components:
 - **Total Revenue**: Visual representation of the total revenue generated.
-- **Sales Quantities**: Analysis of the total sales quantities.
 - **Revenue by Market**: Breakdown of revenue by different markets.
 - **Sales Quantities by Market**: Visualization of sales quantities segmented by market.
 - **Revenue by Year**: Yearly revenue trends.
